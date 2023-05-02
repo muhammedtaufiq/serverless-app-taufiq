@@ -16,5 +16,9 @@ c: user -->powershell: git clone >>LINK that you copied<<
      ***IF U CANT SEE THEN IN POWERSHELL***
      PS C:\Users\username> cat ~/.aws/config
       inlambda Find name..it will add app.
-    Powershell: git add *
+    Powershell: 
+    Git status
+    git add *
+    git commit -m "commit assignment" 
+    git push
      
